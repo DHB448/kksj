@@ -100,13 +100,13 @@
         <title lang="zh">前情提要-种墨园-第28集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260715200300 +0800" stop="20260715205325 +0800">
-        <title lang="zh">种墨园28/34</title>
+        <title lang="zh">种墨园第28集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260715205325 +0800" stop="20260715205615 +0800">
         <title lang="zh">前情提要-种墨园-第29集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260715205615 +0800" stop="20260715214500 +0800">
-        <title lang="zh">种墨园29/34</title>
+        <title lang="zh">种墨园第29集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260715214500 +0800" stop="20260715215200 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -384,11 +384,8 @@
     <programme channel="CCTV4中文国际" start="20260715092840 +0800" stop="20260715100000 +0800">
         <title lang="zh">中国文艺-2026-139</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260715100000 +0800" stop="20260715110000 +0800">
+    <programme channel="CCTV4中文国际" start="20260715100000 +0800" stop="20260715113000 +0800">
         <title lang="zh">2026年国新办发布会-5</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260715110000 +0800" stop="20260715113000 +0800">
-        <title lang="zh">国家记忆-2026-66</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260715113000 +0800" stop="20260715120000 +0800">
         <title lang="zh">海峡两岸-2026-195</title>
@@ -847,13 +844,13 @@
         <title lang="zh">本集提要-九个弹孔-第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260715193000 +0800" stop="20260715202540 +0800">
-        <title lang="zh">九个弹孔15/29</title>
+        <title lang="zh">九个弹孔第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260715202540 +0800" stop="20260715203040 +0800">
         <title lang="zh">本集提要-九个弹孔-第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260715203040 +0800" stop="20260715212440 +0800">
-        <title lang="zh">九个弹孔16/29</title>
+        <title lang="zh">九个弹孔第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260715212440 +0800" stop="20260715212940 +0800">
         <title lang="zh">本集提要-小芳-第5集</title>
@@ -1638,17 +1635,14 @@
     <programme channel="CCTV4欧洲" start="20260715091500 +0800" stop="20260715100000 +0800">
         <title lang="zh">远方的家2026-144</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260715100000 +0800" stop="20260715110500 +0800">
+    <programme channel="CCTV4欧洲" start="20260715100000 +0800" stop="20260715112800 +0800">
         <title lang="zh">2026年国新办发布会-5</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260715110500 +0800" stop="20260715115100 +0800">
-        <title lang="zh">远方的家第31集</title>
+    <programme channel="CCTV4欧洲" start="20260715112800 +0800" stop="20260715115500 +0800">
+        <title lang="zh">国家记忆-2026-66</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260715115100 +0800" stop="20260715115600 +0800">
+    <programme channel="CCTV4欧洲" start="20260715115500 +0800" stop="20260715120000 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-7</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260715115600 +0800" stop="20260715120000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-5</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260715120000 +0800" stop="20260715130000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1770,17 +1764,14 @@
     <programme channel="CCTV4美洲" start="20260715095300 +0800" stop="20260715100000 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-9</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260715100000 +0800" stop="20260715110500 +0800">
+    <programme channel="CCTV4美洲" start="20260715100000 +0800" stop="20260715112800 +0800">
         <title lang="zh">2026年国新办发布会-5</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260715110500 +0800" stop="20260715115000 +0800">
-        <title lang="zh">老闺蜜-(四套)-46/48</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260715115000 +0800" stop="20260715115500 +0800">
+    <programme channel="CCTV4美洲" start="20260715112800 +0800" stop="20260715113300 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-11</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260715115500 +0800" stop="20260715120000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-12</title>
+    <programme channel="CCTV4美洲" start="20260715113300 +0800" stop="20260715120000 +0800">
+        <title lang="zh">国家记忆-2026-66</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260715120000 +0800" stop="20260715130000 +0800">
         <title lang="zh">中国新闻</title>

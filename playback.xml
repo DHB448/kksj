@@ -1305,14 +1305,14 @@
     <programme channel="CCTV13新闻" start="20260824051200 +0800" stop="20260824060000 +0800">
         <title lang="zh">面对面</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260824060000 +0800" stop="20260824072000 +0800">
+    <programme channel="CCTV13新闻" start="20260824060000 +0800" stop="20260824090000 +0800">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260824072000 +0800" stop="20260824092000 +0800">
+    <programme channel="CCTV13新闻" start="20260824090000 +0800" stop="20260824091500 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260824092000 +0800" stop="20260824100000 +0800">
-        <title lang="zh">新闻直播间</title>
+    <programme channel="CCTV13新闻" start="20260824091500 +0800" stop="20260824100000 +0800">
+        <title lang="zh">世界周刊</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260824100000 +0800" stop="20260824110000 +0800">
         <title lang="zh">新闻直播间</title>
@@ -1482,13 +1482,13 @@
     <programme channel="CCTV15音乐" start="20260824193000 +0800" stop="20260824210530 +0800">
         <title lang="zh">CMG夏日歌会-陕西榆林站-重播版</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260824210530 +0800" stop="20260824221700 +0800">
-        <title lang="zh">神采正飞扬-中国郎之夜2026-1（纯享版）</title>
+    <programme channel="CCTV15音乐" start="20260824210530 +0800" stop="20260824222100 +0800">
+        <title lang="zh">中国节拍-品味古典66</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260824221700 +0800" stop="20260824231630 +0800">
+    <programme channel="CCTV15音乐" start="20260824222100 +0800" stop="20260824232030 +0800">
         <title lang="zh">CCTV音乐厅-2026-151-经典回响-古典名作系列音乐会（13）</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260824231630 +0800" stop="20260824235900 +0800">
+    <programme channel="CCTV15音乐" start="20260824232030 +0800" stop="20260824235900 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-276</title>
     </programme>
     <channel id="CCTV17农业农村">

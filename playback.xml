@@ -6687,8 +6687,47 @@
     <channel id="徐州新闻综合">
         <display-name lang="zh">徐州新闻综合</display-name>
     </channel>
-    <programme channel="徐州新闻综合" start="20260907000000 +0800" stop="20260907235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="徐州新闻综合" start="20260906213000 +0800" stop="20260907061000 +0800">
+        <title lang="zh">徐州夜新闻</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907061000 +0800" stop="20260907070000 +0800">
+        <title lang="zh">开机宣传片</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907070000 +0800" stop="20260907070100 +0800">
+        <title lang="zh">国歌</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907070100 +0800" stop="20260907080000 +0800">
+        <title lang="zh">徐州新闻</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907080000 +0800" stop="20260907123000 +0800">
+        <title lang="zh">家庭剧场</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907123000 +0800" stop="20260907140000 +0800">
+        <title lang="zh">政风热线·督办榜</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907140000 +0800" stop="20260907180000 +0800">
+        <title lang="zh">家庭剧场</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907180000 +0800" stop="20260907183000 +0800">
+        <title lang="zh">直播徐州</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907183000 +0800" stop="20260907185600 +0800">
+        <title lang="zh">徐州新闻</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907185600 +0800" stop="20260907190000 +0800">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907190000 +0800" stop="20260907193600 +0800">
+        <title lang="zh">中央新闻联播</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907193600 +0800" stop="20260907212200 +0800">
+        <title lang="zh">情义剧场</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907212200 +0800" stop="20260907213000 +0800">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme channel="徐州新闻综合" start="20260907213000 +0800" stop="20260908061000 +0800">
+        <title lang="zh">徐州夜新闻</title>
     </programme>
     <channel id="优漫卡通频道">
         <display-name lang="zh">优漫卡通频道</display-name>

@@ -97,16 +97,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20261013200025 +0800" stop="20261013200400 +0800">
-        <title lang="zh">前情提要-伟大的长征-9/60</title>
+        <title lang="zh">前情提要-伟大的长征-第9集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261013200400 +0800" stop="20261013205510 +0800">
-        <title lang="zh">伟大的长征9/60</title>
+        <title lang="zh">伟大的长征第9集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261013205510 +0800" stop="20261013205800 +0800">
-        <title lang="zh">前情提要-伟大的长征-10/60</title>
+        <title lang="zh">前情提要-伟大的长征-第10集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261013205800 +0800" stop="20261013214655 +0800">
-        <title lang="zh">伟大的长征10/60</title>
+        <title lang="zh">伟大的长征第10集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261013214655 +0800" stop="20261013220000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
@@ -871,19 +871,19 @@
         <title lang="zh">本集提要-蒸蒸日上-第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261013193000 +0800" stop="20261013202540 +0800">
-        <title lang="zh">蒸蒸日上7/22</title>
+        <title lang="zh">蒸蒸日上第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261013202540 +0800" stop="20261013203040 +0800">
         <title lang="zh">本集提要-蒸蒸日上-第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261013203040 +0800" stop="20261013212440 +0800">
-        <title lang="zh">蒸蒸日上8/22</title>
+        <title lang="zh">蒸蒸日上第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261013212440 +0800" stop="20261013212940 +0800">
         <title lang="zh">本集提要-无可替代-第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261013212940 +0800" stop="20261013221940 +0800">
-        <title lang="zh">无可替代15/19</title>
+        <title lang="zh">无可替代第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261013221940 +0800" stop="20261013222140 +0800">
         <title lang="zh">本集提要-冬去春来-第23集</title>
@@ -3651,7 +3651,7 @@
     <programme channel="辽宁卫视" start="20261013233400 +0800" stop="20261013234000 +0800">
         <title lang="zh">带你游辽宁</title>
     </programme>
-    <programme channel="辽宁卫视" start="20261013234000 +0800" stop="20261014000000 +0800">
+    <programme channel="辽宁卫视" start="20261013234000 +0800" stop="20261014003600 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -3798,7 +3798,7 @@
     <programme channel="河北卫视" start="20261013233000 +0800" stop="20261013233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20261013233300 +0800" stop="20261014000000 +0800">
+    <programme channel="河北卫视" start="20261013233300 +0800" stop="20261014000500 +0800">
         <title lang="zh">遵义三日</title>
     </programme>
     <channel id="江西卫视">

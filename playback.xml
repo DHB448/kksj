@@ -336,23 +336,20 @@
     <programme channel="CCTV4中文国际" start="20261101080000 +0800" stop="20261101083000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20261101083000 +0800" stop="20261101093130 +0800">
+    <programme channel="CCTV4中文国际" start="20261101083000 +0800" stop="20261101094130 +0800">
         <title lang="zh">丙午（2026）年秋祭妈祖大典-1</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20261101093130 +0800" stop="20261101095830 +0800">
+    <programme channel="CCTV4中文国际" start="20261101094130 +0800" stop="20261101100830 +0800">
         <title lang="zh">国家记忆-2026-140</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20261101095830 +0800" stop="20261101102600 +0800">
+    <programme channel="CCTV4中文国际" start="20261101100830 +0800" stop="20261101103600 +0800">
         <title lang="zh">国家记忆-2026-141</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20261101102600 +0800" stop="20261101105300 +0800">
+    <programme channel="CCTV4中文国际" start="20261101103600 +0800" stop="20261101110300 +0800">
         <title lang="zh">国家记忆-2026-143</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20261101105300 +0800" stop="20261101112300 +0800">
+    <programme channel="CCTV4中文国际" start="20261101110300 +0800" stop="20261101113000 +0800">
         <title lang="zh">国家记忆-2026-144</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20261101112300 +0800" stop="20261101113000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-25</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20261101113000 +0800" stop="20261101120000 +0800">
         <title lang="zh">海峡两岸-2026-304</title>
@@ -1551,17 +1548,11 @@
     <programme channel="CCTV4欧洲" start="20261101080000 +0800" stop="20261101083000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20261101083000 +0800" stop="20261101093500 +0800">
+    <programme channel="CCTV4欧洲" start="20261101083000 +0800" stop="20261101094300 +0800">
         <title lang="zh">丙午（2026）年秋祭妈祖大典-1</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20261101093500 +0800" stop="20261101100500 +0800">
+    <programme channel="CCTV4欧洲" start="20261101094300 +0800" stop="20261101101300 +0800">
         <title lang="zh">国家记忆-2026-143</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20261101100500 +0800" stop="20261101101000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-25</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20261101101000 +0800" stop="20261101101300 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-18</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20261101101300 +0800" stop="20261101105900 +0800">
         <title lang="zh">依依向北风第34集</title>
@@ -1677,29 +1668,23 @@
     <programme channel="CCTV4美洲" start="20261101080000 +0800" stop="20261101083000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20261101083000 +0800" stop="20261101093200 +0800">
+    <programme channel="CCTV4美洲" start="20261101083000 +0800" stop="20261101094200 +0800">
         <title lang="zh">丙午（2026）年秋祭妈祖大典-1</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20261101093200 +0800" stop="20261101100200 +0800">
+    <programme channel="CCTV4美洲" start="20261101094200 +0800" stop="20261101101200 +0800">
         <title lang="zh">藏不住的好去处-4</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20261101100200 +0800" stop="20261101110200 +0800">
+    <programme channel="CCTV4美洲" start="20261101101200 +0800" stop="20261101111200 +0800">
         <title lang="zh">中国文艺-致敬经典2026-44</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20261101110200 +0800" stop="20261101113000 +0800">
+    <programme channel="CCTV4美洲" start="20261101111200 +0800" stop="20261101114000 +0800">
         <title lang="zh">深度国际-2026年10月-5</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20261101113000 +0800" stop="20261101114500 +0800">
+    <programme channel="CCTV4美洲" start="20261101114000 +0800" stop="20261101115500 +0800">
         <title lang="zh">平凡匠心-2026-89</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20261101114500 +0800" stop="20261101115000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-27</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20261101115000 +0800" stop="20261101115500 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-26</title>
-    </programme>
     <programme channel="CCTV4美洲" start="20261101115500 +0800" stop="20261101120000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-28</title>
+        <title lang="zh">记住乡愁-片段展播-2025-27</title>
     </programme>
     <programme channel="CCTV4美洲" start="20261101120000 +0800" stop="20261101130000 +0800">
         <title lang="zh">中国新闻</title>

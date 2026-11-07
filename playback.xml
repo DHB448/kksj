@@ -487,7 +487,7 @@
         <title lang="zh">2026中国杯世界花样滑冰大奖赛-双人自由滑</title>
     </programme>
     <programme channel="CCTV5体育" start="20261107200000 +0800" stop="20261107223000 +0800">
-        <title lang="zh">2026/2027赛季斯诺克国际锦标赛-决赛  第二阶段</title>
+        <title lang="zh">WTT法兰克福冠军赛2026-1/4决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20261107223000 +0800" stop="20261107230000 +0800">
         <title lang="zh">实况录像-2026/2027赛季短道速滑世界巡回赛 加拿大蒙特利尔站 25分钟版</title>
@@ -537,14 +537,8 @@
     <programme channel="CCTV5+体育赛事" start="20261107183100 +0800" stop="20261107190000 +0800">
         <title lang="zh">2026/2027英格兰足球超级联赛-第9轮集锦（4K）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20261107190000 +0800" stop="20261107210500 +0800">
-        <title lang="zh">2026年世界举重锦标赛-女子86公斤级</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20261107210500 +0800" stop="20261107213000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20261107190000 +0800" stop="20261107235900 +0800">
         <title lang="zh">实况录像-2026年世界体操锦标赛 25分钟版</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20261107213000 +0800" stop="20261107235900 +0800">
-        <title lang="zh">2026年ATP1000男子网球大师赛-巴黎站  半决赛</title>
     </programme>
     <channel id="CCTV6电影">
         <display-name lang="zh">CCTV6电影</display-name>
